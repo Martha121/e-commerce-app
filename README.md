@@ -24,8 +24,9 @@ This app is the backend portion of an E-Commerce website. Express.js was used fo
 
 ## Demo
    Link to the videos:
+  Video for GET routes to return all categories, all products, and all tags and GET routes to return a single category, a single product, and a single tag being tested in Insomnia Core:
+  https://drive.google.com/file/d/1vTrRD6XwRouK771QqhFP6kp6OxzXQ8LY/preview"
 
-   
 ## Contributing
      Martha Gamez.
 
